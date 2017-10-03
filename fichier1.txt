@@ -1,1 +1,1 @@
-Premier fichier de cet exercice un peu facile
+Premier fichier de cet exercice un peu facile (mais ne pas oublier le commentaire !)
